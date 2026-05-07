@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "5.0",
+  "version_code": 6,
+  "version_name": "6.0",
   "apk_url": "https://github.com/Matrix1999/Android-NDK-/releases/download/v4.0/Dex2cMega.apk",
   "changelog": "Download complete dialog now shows the saved file path and an Install Now button.",
   "release_date": "2026-05-07"
