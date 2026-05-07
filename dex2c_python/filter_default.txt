@@ -1,5 +1,0 @@
-# Rules are made using regex patterns
-
-# Protect all methods in all classes
-# Not recommended for real world applications.
-.*
