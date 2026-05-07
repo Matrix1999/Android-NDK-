@@ -1,7 +1,7 @@
 {
-  "version_code": 3,
-  "version_name": "3.0",
-  "apk_url": "https://github.com/Matrix1999/Android-NDK-/releases/download/v3.0/Dex2cMega.apk",
-  "changelog": "Initial release.",
+  "version_code": 4,
+  "version_name": "4.0",
+  "apk_url": "https://github.com/Matrix1999/Android-NDK-/releases/download/v4.0/Dex2cMega.apk",
+  "changelog": "Added in-app auto-update system. App now checks for updates on launch and shows a download dialog automatically.",
   "release_date": "2026-05-07"
 }
