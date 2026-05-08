@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "7.0",
+  "version_code": 8,
+  "version_name": "8.0",
   "apk_url": "https://github.com/Matrix1999/Android-NDK-/releases/download/v4.0/Dex2cMega.apk",
-  "changelog": "Fixed update checker — now reliably detects new versions.",
-  "release_date": "2026-05-07"
+  "changelog": "V8 — Faster compile speed, auto cache clear on every build & 16 advanced protection layers added.",
+  "release_date": "2026-05-08"
 }
